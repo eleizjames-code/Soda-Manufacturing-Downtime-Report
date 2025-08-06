@@ -2,7 +2,7 @@
 This dashboard analyzes downtime causes and their impact on line efficiency and production losses in a soda manufacturing setup.
 
 <p align="center">
-  <img src="https://github.com/eleizjames-code/Soda-Manufacturing-Downtime-Report/blob/main/Soda%20Manufacturing%20Downtime%20Dashboard%20(PNG).png.png?raw=true" alt="Tastescape Restaurant Sales Dashboard" width="80%">
+  <img src="https://github.com/eleizjames-code/Soda-Manufacturing-Downtime-Report/blob/main/Soda%20Manufacturing%20Downtime%20Dashboard%20(PNG).png?raw=true" alt="Tastescape Restaurant Sales Dashboard" width="80%">
 </p>
 <p align="center"><b>Figure 1:</b> Soda Manufacturing Downtime Report</p>
 
